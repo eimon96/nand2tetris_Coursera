@@ -1,2 +1,10 @@
-# nand2tetris_Coursera
-projects
+# Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+
+
+Course:
+
+https://www.coursera.org/learn/build-a-computer
+
+Site:
+
+https://www.nand2tetris.org/
