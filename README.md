@@ -22,3 +22,5 @@ https://courses.e-ce.uth.gr/CE130/auxiliary/Multisim_Tutorial.pdf
 Project01:  Logic Gates - .hdl
 
 Project02: Boolean Arithmetic and ALU - .hdl
+
+Project03: Registers and RAM - .hdl
