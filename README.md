@@ -25,4 +25,4 @@ Project02: Boolean Arithmetic and ALU - .hdl
 
 Project03: Registers and RAM - .hdl
 
-Project04: Assembly - .asm          -UNFINISHED
+Project04: Assembly - .asm
