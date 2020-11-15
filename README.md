@@ -3,7 +3,9 @@
 
 Course:
 
-https://www.coursera.org/learn/build-a-computer
+(Part1) https://www.coursera.org/learn/build-a-computer
+
+(Part2) https://www.coursera.org/learn/nand2tetris2
 
 Site:
 
@@ -26,3 +28,7 @@ Project02: Boolean Arithmetic and ALU - .hdl
 Project03: Registers and RAM - .hdl
 
 Project04: Assembly - .asm
+
+
+-----------------------------------------------------------------------------------------------
+to be continued
